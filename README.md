@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Puneet singh</h1>
-<h3 align="center">A Cybersecurity Student </h3>
+<h3 align="center">A Cybersecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightc0de&label=Profile%20views&color=0e75b6&style=flat" alt="knightc0de" /> </p>
 
@@ -13,8 +13,6 @@
 - 🤝 I’m looking for help with **Cybersecurity Experts**
 
 - 💬 tell me about **Technology**
-
-- 📫 How to reach me **Insta - https_p.u.n.e.e.t**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
