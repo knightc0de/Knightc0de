@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web App Pentesting | Data Security thread & Programming**
 
-- 🌱 I’m currently learning **Bug bounty | OS Dev | Programing languages**
+- 🌱 I’m currently learning **Cybersecurity | OS Dev | Programing languages**
 
 - 🤝 I’m looking for help with **Cybersecurity Experts**
 
