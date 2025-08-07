@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightc0de&label=Profile%20views&color=0e75b6&style=flat" alt="knightc0de" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightc0de" alt="knightc0de" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightc0de" /></a> </p>
 
 - 🔭 I’m currently working on **Web App Pentesting | Data Security thread & Programming**
 
