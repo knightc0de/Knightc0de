@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightc0de" /></a> </p>
 
-- 🔭 I’m currently working on **Web App Pentesting | Data Security thread & Programming**
+- 🔭 I’m currently working on **Web App Pentesting | Cloud Security & Security tools**
 
-- 🌱 I’m currently learning **Cybersecurity | OS Dev | Programing languages**
+- 🌱 I’m currently learning **Threat analysts | Programing | Agentic Ai**
 
 - 🤝 I’m looking for help with **Cybersecurity Experts**
 
